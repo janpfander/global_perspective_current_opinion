@@ -9,169 +9,99 @@ abstract: |
 bibliography: references.bib
 ---
 
-\[change title to trust in science?\]
+\[change title to: "Global evidence suggests new directions for studying trust in SCIENCE"?\]
 
-Research on public attitudes towards science dates back until at least XX. But a recent global study with over 71,000 people from 68 countries has now challenged some of the most established findings on trust in science [@colognaTrustScientistsTheir2025].
+Survey research on public attitudes towards science dates back at least until the 1980 [@bauerWhatCanWe2007]. But some widely established findings regarding public trust in science have recently been challenged by a global study with over 71,000 participants from 68 countries [@colognaTrustScientistsTheir2025].
 
-The idea that science knowledge is the most important determinant of trust in science has long dominated the field (ref)[^1]. @colognaTrustScientistsTheir2025 tested the relationship between national science literacy scores, based on the Program for International Student Assessment (PISA), and national average trust in scientists for the 68 countries included in their study. They found no statistically significant association.
+For example, the idea that science knowledge is the most important determinant of trust in science has long dominated the field [@allumScienceKnowledgeAttitudes2008][^1]. @colognaTrustScientistsTheir2025 tested the relationship between national science literacy scores, based on the Program for International Student Assessment (PISA), and national average trust in scientists for the 68 countries included in their study. They found no statistically significant association.
 
 [^1]: Past research has already established knowledge of science is at best weakly correlated to attitudes towards science. However, this research has (i) looked at attitudes more generally, and not trust specifically, and (ii) has relied on a narrow set of science facts to measure science knowledge. Measuring trust in science and using PISA scores, @colognaTrustScientistsTheir2025 address these issues.
 
 Similarly, education, and in particular science education, has been identified as one of the strongest correlates of trust in science in global samples [@wellcomeglobalmonitorWellcomeGlobalMonitor2018; @noyScienceGoodEffects2019]. Yet, @colognaTrustScientistsTheir2025 only find a weak positive relationship between tertiary education and trust in science.
 
-In the global north (--\> check the study samples and be more specific here), studies have found religiosity to be associated with lower trust in scientists [@azevedoIdeologicalBasisAntiscientific2021; @rutjensSpiritualSkepticismHeterogeneous2020; @mcphetresReligiousAmericansHave2021]. By contrast, @colognaTrustScientistsTheir2025 have found that, across the globe, religiosity is on average positively associated with trust in scientists.
-
-Research from the United States has found that conservatives tend to distrust scientists and oppose their role in policymaking. This has shaped a broader narrative of partisan divides in science trust. However, @colognaTrustScientistsTheir2025 show that this pattern is not universal. Across 68 countries, they find no consistent link between political orientation and trust in scientists—whether measured on a left–right or liberal–conservative scale. In fact, in some countries, right-leaning individuals show *higher* trust. These results suggest that political polarization in science trust is likely driven more by local (at the national level) cultural contexts more than by ideology itself.
+Past studies which have focused on the Global North have found religiosity to be associated with lower trust in scientists [@azevedoIdeologicalBasisAntiscientific2021; @rutjensSpiritualSkepticismHeterogeneous2020; @mcphetresReligiousAmericansHave2021]. By contrast, @colognaTrustScientistsTheir2025 have found that, across the globe, religiosity is on average positively associated with trust in scientists.
 
 Greater income inequality has been shown to be negatively associated with trust in science [@wellcomeglobalmonitorWellcomeGlobalMonitor2018]. By contrast, @colognaTrustScientistsTheir2025 found that trust in scientists is actually *higher* in countries with greater income inequality.
 
-How can we make sense of these inconsistencies in the literature? One possibility is that the relationships between trust in science and other variables are highly volatile. More likely, however, is that inconsistent findings reflect inconsistencies in research design. The aim of this article is to identify potential sources of these inconsistencies, highlight current shortcomings, and propose new research avenues on three levels: a theoretical, a methodological and a normative level.
+What to make of these inconsistent findings in the literature? One possibility is that trust in science–and its relationships with other variables–is highly volatile. More likely, however, is that the inconsistent findings reflect inconsistencies in research design. The aim of this article is to identify potential sources of these inconsistencies, highlight current shortcomings, and propose new research avenues on three levels: a theoretical, a methodological and a normative level.
 
 # Theoretical level
 
-When investigating public trust in science, researchers first need to ask the question: what exactly do we want to explain? Being as precise as possible about this question will not only improve comparability between studies, but also generate more practicable insights.
+When investigating public trust in science, researchers first need to ask the question: what exactly do we want to explain? Being as precise as possible about this question will improve comparability and likely generate more robust results.
 
 ## Trust in what?
 
-The term science can mean different things to different individuals or groups [@gauchatCulturalAuthorityScience2011]. It can be seen, for example, as a body of literature, an institution, a method, certain individual scientists, disciplines or specific pieces of knowledge. In many large scale surveys, trust in science is often measured with general questions such as "how much do you trust science - 1 to 4" (e.g. wgm) (note that the WGM also asked a bunch of other questions). Single-item, general questions as measures for trust risk tapping into different representations of science among different people, which in turn can bias estimates (see beasly).
+The term science can evoke different representations among different individuals or groups [@gauchatCulturalAuthorityScience2011]. Science can be seen, for example, as a body of literature, an institution, a method, certain individual scientists, disciplines or specific pieces of knowledge. These representations of science matter for people's trust: For instance, it has been shown that people in the US tend to trust scientific methods more than scientific institutions—particularly among less-educated segments of the population [@achterbergScienceConfidenceGap2017].
 
-For instance, it has been shown that people in the US tend to trust scientific methods more than scientific institutions—particularly among less-educated segments of the population [@achterbergScienceConfidenceGap2017]. Regarding scientists, people tend to trust some more than others: Around the world, people percieve climate scientists as less trustworthy than scientists in general [@ghasemiGapsPublicTrust2025]. In the US, people trust some disciplines, such as biology or physics, considerably more than others, such as economics or sociology [@altenmullerExplainingPolarizedTrust2024; @gligoricHowSocialEvaluations2024; @gauchatCulturalCognitiveMappingScientific2018]. There are also trust differences with regards to scientific knowledge: people in the US–even those who say they do not trust science in general–tend to overwhelmingly trust basic scientific knowledge [e.g. electrons are smaller than atoms, @pfanderQuasiuniversalAcceptanceBasic2025], while on certain contentious topics, substantial minorities of the population reject the scientific consensus [@pewresearchcenterMajorGapsPublic2015; on climate change, see, e.g., @stockemerUnderstandingClimateChange2024; on GMOs, see, e.g., @uscinskiHaveBeliefsConspiracy2022].
+In general, trust in science is not domain-general (people don't trust all of science equally), but domain specific. Domains can be for example different groups of scientists: people tend to trust some smore than others: Around the world, people perceive climate scientists as less trustworthy than scientists in general [@ghasemiGapsPublicTrust2025]. Domains can also be different scientific disciplines: in the US, people trust some disciplines, such as biology or physics, considerably more than others, such as economics or sociology [@altenmullerExplainingPolarizedTrust2024; @gligoricHowSocialEvaluations2024; @gauchatCulturalCognitiveMappingScientific2018]. Another example of domain-specific trust is scientific knowledge: people in the US–even those who say they do not trust science in general–tend to overwhelmingly trust basic scientific knowledge [e.g. electrons are smaller than atoms, @pfanderQuasiuniversalAcceptanceBasic2025], while on certain contentious topics, substantial minorities of the population reject the scientific consensus [@pewresearchcenterMajorGapsPublic2015; on climate change, see, e.g., @stockemerUnderstandingClimateChange2024; on GMOs, see, e.g., @uscinskiHaveBeliefsConspiracy2022].
 
-## Trustees vs. trustors
+To assess trust in science, many large scale survey ask general questions, such as "In general, would you say that you trust science a lot, some, not much, or not at all? \[1 = Not at all, 2 = Not much, 3 = Some, 4 =A lot\]" [@wellcomeglobalmonitorWellcomeGlobalMonitor2018][^2]. Because people can have different representations of science, and because trust in science is domain-specific, questions about science in general are prone to yield inconsistent findings–it is unclear, what exactly they measure [@besleyReassessingVariablesUsed2021a; @besleyWhatAreYou2023].
 
-In trust relationships, trustors are those who place trust, and trustees are those who receive trust (ref). Work in science communication has focused on the trustees–the scientists. Researchers have proposed different dimensions of scientists' trustworthiness, the exact number of which can vary, but which typically cover an epistemological and an ethical dimension [@intemannScienceCommunicationPublic2023]. For example, @hendriksMeasuringLaypeoplesTrust2015 have argued for three dimensions–expertise, integrity, and benevolence–while @besleyReassessingVariablesUsed2021a has suggested openness as a fourth dimension. Across these dimensions, competence is typically the one on which scientists score highest in the perception of the public [in the US, see @kennedyPublicTrustScientists2024; for global evidence, see @colognaTrustScientistsTheir2025].
+[^2]: Note that while the Wellcome Global Monitor includes this measure, its report focuses on an index measure that comprises several questions perceptions of scientists
 
-Work in psychology as focused on the trustors–the public. This research shows that people's values, world views, and identities correlate with their attitudes towards science [@hornseyAttitudeRootsJiu2017]. Some research suggests that certain psychological traits, such as a social dominance orientation [@hornseyWhyFactsAre2020], or a tendency of engaging in conspiracy thinking [@rutjensConspiracyBeliefsScience2022], leads people to reject science. Other research suggests that motivated reasoning–selecting and interpreting information to match one's existing beliefs or behaviors–causes science rejection [@lewandowskyWorldviewmotivatedRejectionScience2021].
+## Trustees vs. trustors \[I don't know where this section is supposed to go, probably remove it\]
 
-Whether researchers focus on the trustees or the trustors results in very different perspectives on the roots of (dis)trust in science. A focus on the trustees suggest that these roots are endogenous to science. Accordingly, science communication has proposed solutions for better communicating science (refs) provides. A focus on the trustors suggests that the roots are exogenous to science, and within people's psychology. However, simply stating pychological factors does not make for explanations.
+Trust relationships consist of two sides: trustors, those who place trust, and trustees, those who receive trust [@mayerIntegrativeModelOrganizational1995a]. Which of the two sides researchers focus on, result in different perspectives on the roots of (dis)trust in science, and what to do about it.
 
-Focusing on the trustors suggests that the roots are exogenous to science. These roots, however, are not well understood. Where do people get their motivations from?
+Work in science communication has focused on the trustees–the scientists. Researchers have proposed different dimensions of scientists' trustworthiness, the exact number of which can vary, but which typically cover an epistemological and an ethical dimension [@intemannScienceCommunicationPublic2023]. For example, @hendriksMeasuringLaypeoplesTrust2015 have argued for three dimensions–expertise, integrity, and benevolence–while @besleyReassessingVariablesUsed2021a has suggested openness as a fourth dimension. Across these dimensions, competence is typically the one on which scientists score highest in the perception of the public [in the US, see @kennedyPublicTrustScientists2024; for global evidence, see @colognaTrustScientistsTheir2025].
 
-Individual-level focus on trustors in psychology.
+Focusing on the trustors, the public, work in psychology has shown that people's values, world views, and identities correlate with their attitudes towards science [@hornseyAttitudeRootsJiu2017]. Some research suggests that certain psychological traits, such as a social dominance orientation [@hornseyWhyFactsAre2020], or a tendency of engaging in conspiracy thinking [@rutjensConspiracyBeliefsScience2022], leads people to reject science. Other research suggests that motivated reasoning–selecting and interpreting information to match one's existing beliefs or behaviors–causes science rejection [@lewandowskyWorldviewmotivatedRejectionScience2021].
 
-Depending on which of the two the focus lies, the explanations of trust differ substantially
-
-The trustors are much harder to explain, and to fix.
-
-The roots of trustees are in science - science communication can develope strategies of better communicating other strenghts. Explanations for trustors are unrelated to science. Psychologists can attest conspiracist or populist mindsets. But fixes are not easy communication fixes. To get to the roots of these, we need macro perspectives. are likely
-
-A focus on trustors as different applications.
-
-trustees and trustors provide very different lenses on the roots of public trust in sicence. As for the trustees, roots lie within science. Better science and better science communication can help.
-
-But more literature is needed to make sense of these, from a macro lense. Political science literature on polarization and sociological literature on alienantion (see Gauchat, but also refs in achterberg)
-
-By contrast, the psychological literature has focused on the trustors (conspiracy theorists, science populism etc).
-
-Maybe suggest that it is unclear which sociological factors explain trustor characteristics? These characteristics might have nothing to do with science.
+A focus on the trustees suggest that these roots are endogenous to science–how scientists act or present themselves influences public trust. Accordingly, research has proposed communication strategies for scientists to foster trust in science [e.g., @besleyStrategicScienceCommunication2019]. A focus on the trustors suggests that the roots are exogenous to science–they lie within people's psychology. From this perspectives, communication based interventions are less promising.
 
 ## Trustworthiness vs. trusting
 
-Most of research on trust in science is about how trustworthy people perceive science, the scientists, the scientific method, or certain pieces of scientific knowledge. However, evaluations of trustworthiness are different from the act of trusting. There are very little studies that investigate trusting behavior. John beasly on willingness to be vulnerable, which is slightly more behavioral. Few studies connect perceptions of trustworthiness to actual trusting behavior.
-
-# Methodological level
-
-Shortcomings: sample selection and measurement. Even if we have specified a theoretical construct to measure (e.g. trustworthiness of scientists), we
-
-## Sample selection
-
-Much of this research has focused on the United States and Europe. More diverse samples –\> context dependency
-
-## Measurement
-
-Some efforts have been made to expand the study of trust in science beyond the global north, in particular two large-scale surveys by the Wellcome foundation [@wellcomeglobalmonitorWellcomeGlobalMonitor2018; @wellcomeglobalmonitorWellcomeGlobalMonitor2020]. However, these surveys have used limited measures of trust in science, an index of 5 questions about scientists, science and XX. Measuring perceived trustworthiness of scientists with index of XX questions, covering dimensions of trustworthiness–competence, benevolence, integrity, openness– @colognaTrustScientistsTheir2025 come to different conclusions on some key questions.
-
-Although trust in science can be domain-specific and depends on one's subjective representation of science, empirically, general trust in science appears to be a meaningful concept. First, while index measures of trustworthiness with different dimensions (e.g., competence, benevolence etc.), are preferable to direct, single-item measures of general trust [@besleyWhatAreYou2023], such as the Pew research centers' question "how much confidence, if any, do you have in scientists to act in the best interests of the public?", in their recent global study on trust in science, @colognaTrustScientistsTheir2025 report that the Pew's single item question was highly correlated with an index measure based on several trustworthiness dimensions. Second, as reviewed earlier, general trust in science, whether based on a single-item or an index measure, appears to be a relevant predictor of other more tangible outcomes, from vaccine intentions to beliefs about climate change.
-
-# Normative level
-
-Science is the rational thing to do – implicit in all accounts of trust in science.
+Asking people general questions about their trust in science does not only mingle different representations of science; it also confuses perceptions of trustworthiness with acts of trusting. Research in public trust in science mostly investigates the former, perceptions of trustworthiness, but less the latter, behavioral trust [@besleyWhatAreYou2023]. Perceptions of trustworthiness can be measured, for example, by asking people to judge scientists' charter—e.g., their competence, integrity, or benevolence [@hendriksMeasuringLaypeoplesTrust2015]. To measure behavioral trust, @besleyReassessingVariablesUsed2021a developed a scale intended to capture people's "willingness to be vulnerable" to scientists, asking for example how much influence people believe scientists should have over public policy. This willingness to be vulnerable has been shown to correlate with trust in scientists [@colognaTrustScientistsTheir2025]. However, in our view, there is still a lot of conceptual work to be done regarding what exactly constitutes an act of trust in science: following @besleyWhatAreYou2023, wanting more political power for climate scientists is such an act. But is simply believing in human-made climate change already an act of trusting? And if yes, how do we differentiate between these forms of trusting? Answering this questions is necessary to understand better how and under which circumstances perceptions of trustworthiness translate into specific acts of trusting.
 
 ## Trust vs. distrust
 
-We have focused on distrust, but do not know how to explain trust. Both are not necessarily symmetrical.
+Work on public trust in science typically seeks to explain why people do not trust science (enough). In the context of trust in political institutions, research has shown that trust and distrust are not necessarily symmetrical, and require different measurement approaches [@bertsouRethinkingPoliticalDistrust2019]. However, trust in science mostly relies on scales intended to capture trust. These scales make it hard to distinguish between a (passive) lack of trust and (active) distrust.
 
-How much trust in science is good? Clearly, science can't solve all our societal problems.
+# Methodological level
 
-## Public engagement
+Methodologically, biases in sample selection and inconsistencies in measurement are two key factors limiting the comparability of studies on trust in science.
 
-Science needs to be impersonal. Prior research shows that trust increases when people see scientists as sharing their values or social identity [@druckmanRepresentationScienceTrust2025]. \[Add work on value alignment and intellectual humility\]
+## Sample selection
 
-A focus on distrust, driven by the normative assumption that science is great. We should perhaps not take trust in science for granted.
+Much of the research on trust in science has focused on the United States (US) and Europe. In both regions, research on public perceptions of science is institutionally anchored in public surveys, such as the National Science Foundation’s (NSF) “Science and Engineering Indicators” in the US, or the "Eurobarometer" in the EU. Despite some large-scale global surveys [e.g., @wellcomeglobalmonitorWellcomeGlobalMonitor2018; @wellcomeglobalmonitorWellcomeGlobalMonitor2020], other regions of the world remain much less systematically studied.
 
-At the theoretical level, escape deficit thinking. famously, knowledge deficit.
+Which regions researchers choose to study trust in science is likely to impact their findings: For example, in the US, there is a significant partisan gap in trust in science: democrats tend to trust science more, and republicans tending to trust less [@krauseTrendsAmericansTrust2019a; @druckmanContinuityChangeTrust2024]. This observation, in isolation, might suggests that broader political orientations are important determinant of trust. At a global scale, however, the picture is more nuanced: While in Europe and in the US more right (vs. left) leaning and more conservative (vs. liberal) individuals tend to trust scientists less, the opposite is true in several countries in Africa and Southeast Asia [@colognaTrustScientistsTheir2025]. The relationship between political orientation and trust in science becomes even more nuanced when looking at specific areas of science: For instance, political conservatism is associated with greater climate change skepticism in North America and Europe, but not in other countries [@rutjensScienceSkepticism242022].
 
-content-based trust. Science knowledge as conten
+The example of political orientation illustrates how factors associated wit trust in science can be highly context-dependent. Relying on more diverse samples prevents from jumping to overgeneralizations and will ultimately lead to more refined explanations of (dis)trust in science.
 
-From content-based to source-based evaluation of trust.
+## Measurement
 
-From the trustees (recipients of trust) to trustors. Psychological factors.
+Survey projects on public perceptions of science rely on very different measures of trust. For example, the US General Social Survey has measured trust in science for 50 years, but has used only one single item \["Would you say you have a great deal of confidence, only some confidence, or hardly any confidence at all in the scientific community?"\][^3]. As discussed before on the theoretical level, single-item, general measures of trust in science risk tapping into different representations of science among different people. This makes findings harder to compare. Other large-scale survey projects have addressed this issue by building index measures of trust: two Wellcome Global Monitors, for example, rely on an index measure of trust in scientists comprised of several items [@wellcomeglobalmonitorWellcomeGlobalMonitor2018; @wellcomeglobalmonitorWellcomeGlobalMonitor2020][^4]. These index measures, while accounting for different representations of science, differ between different survey projects, thus making it hard to compare the results. Researchers can overcome this by picking a specific theoretical construct they seek to measure, and agreeing on common, validated scales. For example, @colognaTrustScientistsTheir2025 measured trustworthiness of scientists with index of XX questions, covering dimensions of competence, benevolence, integrity, openness. Using this detailed scale allowed for fine-grained results. For example, while the public strongly believes in scientists’ competence, perceptions of integrity and openness are notably weaker. This highlights a key challenge for science communication—not just proving expertise, but also building moral credibility and relatability.
 
-However, we're still operating in deficit paradigms! We're trying to explain distrust.
+[^3]: Similarly, the PEW research center relies on a single-item question, asking people about how much confidence they have that “scientists act in the best interests of the public” [@kennedyPublicTrustScientists2024].
 
-Result: much research focuses on distrust, since the failure of the deficit model, we cannot really explain why people do trust science in the first place.
+[^4]: These items are: "How much do you trust scientists in this country? A lot, some, not much or none at all?"; "In general, how much do you trust scientists to find out accurate information about the world? A lot, some, not much or none at all?"; "How much do you trust scientists working in colleges/universities in this country to do their work with the intention of benefiting the public? A lot, some, not much or none at all?"; "How much do you trust scientists working in colleges/universities in this country to be open and honest about who is paying for their work? A lot, some, not much or none at all?"; "How much do you trust scientists working for companies in this country to do their work with the intention of benefiting the public? A lot, some, not much or none at all?"
 
-Science as a unique
+# Normative level
 
-Should people trust science blindly? That is irrealistic, because it depicts science as a univocal entity. That's the case for some things, and science is arguably very good at producing consensus. However, this has it's natural limits. Cutting edge science is controversial, with teams working against each other. Science could not replace democratic processes.
+## How much trust in science is good?
 
-Here, we aim to lay out these inconsistencies, and what a research agenda to overcome past shortcomings could look like: on three levels. We begin on
+Research on public perceptions of science has long operated in deficit paradigms, attesting the public various kinds of deficits–from a lack of scientific knowledge to a lack of trust in science [@scheufeleThirtyYearsScience2022]. Despite a recurrent rethoric of declining trust in science, cologna found that trust in science across the world, if not at ceiling, is moderately high. But how much trust in science is good?
 
-Here, we aim to lay out challenges for a new research agenda on trust in science to to overcome this. In the first section, we argue for more precise
+For many established topics of scientific consensus–e.g., the existence of human made climate change, or the safety of vaccines and GMOs–more trust in science should result in better societal outcomes. But for disruptive knowledge and emerging technologies to be in the best public interest, the public also needs to critically evaluated them, rather than blindly trust the science [see e.g., @scheufeleWhatWeKnow2021].
 
-In chapter one, we describe theoretical challenges, and the main question is: What do we want to explain? (There are many things to measure, different types of trust etc. )
+Should people trust science blindly? That is unrealistic, because it depicts science as a univocal entity. That's the case for some things, and science is arguably very good at producing consensus. However, this has it's natural limits. Cutting edge science is controversial, with teams working against each other. Science could not replace democratic processes.
 
-rom sample selection to measurement. In the first section of this review, we lay out what we see as key methodological challenges that research on trust in science needs to address. We do, however, believe that the challenges for the field go beyond methods. In the second section, we
+## Avoiding an over-focus (hyper-focus?) on trust
 
-However, we do believe that recent results also invite to reconsider theoretical questions. ö ask us to reconsider the theoretical questions and normative claims underlying the theory. We will discuss these points in section two and three.
+Trust in science helps in soliving societal issues from XX to XX. But trust is not always the main issue, and should not serve as a general diagnostic for all science related public issues. For example, communities of color in the United States and Covid-19 Vaccination – there are important historic issues that foster distrust. But maybe fixing structural issues (access to medication, poverty etc.) is in fact more important than thinking about communicative strategies of fixing trust.
 
-As we have already suggested in this introduction, they are clearly related to methodological shortcomings.
+## Beyond neutrality of scientists
 
-this research has suffered from two major methodological shortcomings: a narrow focus on samples from United States and Europe; incoherent and unprecise measures of trust in science.
-
-By now, research on public attitudes towards science has a long tradition.
-
-Traditionally a deficit view of public trust in science. Trust in science is eroding.
-
-Despite these critiques, many studies continue to focus not on understanding *trust* in science, but rather on explaining its absence—framing public concerns as forms of *distrust*, *deficit*, or *deviation* from an assumed norm of trust. This focus reinforces the idea that trust in science is the default or desirable state, while skepticism is treated as something to be corrected through education or communication. Such approaches often overlook the possibility that people may have *good reasons* for their reservations, grounded in personal experience, structural inequalities, or broader sociopolitical dynamics \[\@wynneMisunderstoodMisunderstandingSocial1992; \@auerScientificExpertsTrust2021\]. By pathologizing distrust, rather than examining the diverse contexts in which trust is negotiated, these studies risk reproducing a narrow and normative view of public-science relations.
-
-Recently, by some indicators, public trust in science has been eroding. In particular in the US, trust in science is increasingly polarized, and recent poll data suggests a decline. This has fueled the narrative of a crisis of public trust in science. @colognaTrustScientistsTheir2025 find no empirical support for this narrative. Their 68-country study shows that, around the globe, most people tend to trust scientists. However, trust in science is not at ceiling, and even science skeptic minorities can do harm. The challenge is therefore to better understand what might drive variation in people's trust in science. Recent global evidence challenges the importance of many of previously identified factors.
-
-Finally, domains can be areas of legitimacy. The fact that people tend to evaluate scientists in particular as competent already suggests that they see scientists as legitimate in their role of knowledge producers. However, this legitimacy does not necessarily extent to other roles, in particular as policy advocates: According to the just before mentioned Pew survey, only 43% of Americans think scientists are usually better than other people at making good policy decisions on scientific issues [@kennedyPublicTrustScientists2024]. However, the evidence on the public opinion about scientists in the role of policy advocates is not conclusive: A recent global study found that people tend to agree that scientists should engage with society and be involved in policymaking [@colognaTrustScientistsTheir2025]. In the context of climate science, @colognaMajorityGermanCitizens2021 found that in the US, and Germany, people support policy advocacy by climate researchers and expect greater political engagement of the scientists.
-
-# Established findings revisited
-
-Methods
-
-One explanation is that in highly unequal societies, scientists may be perceived as more trustworthy than political or economic elites.
-
-# New directions
-
-## Different dimensions of trustworthiness
-
-What do people mean when they say they trust scientists? General, single-item meausures of trust have been critizised recently. Cologna et al. (2025) adress this by focusing on perceived trustworthiness of scientists, and measuring distinct dimensions of trustworthiness: competence, integrity, benevolence, and openness. While the public strongly believes in scientists’ competence, perceptions of integrity and openness are notably weaker. This highlights a key challenge for science communication—not just proving expertise, but also building moral credibility and relatability. Prior research shows that trust increases when people see scientists as sharing their values or social identity [@druckmanRepresentationScienceTrust2025]. Increasing diversity in science and making values explicit may therefore be essential for strengthening public trust.
-
-## Normative perceptions of scientists
-
-It is often assumed that scientists risk their trustworthiness by engaging in politics or advocacy. Yet @colognaTrustScientistsTheir2025 find that most people *want* scientists to play a role in society and policymaking. Support is especially strong among younger, urban, and more educated respondents, though conservatives tend to be less favorable. At the same time, there’s a clear mismatch between public expectations and perceived scientific priorities: people want scientists to focus more on public health, energy, and poverty—but believe too much emphasis is placed on military research. Aligning research agendas with public concerns may be key to sustaining trust.
-
-## Science-related populism
-
-Science-related populism, in particular in the US, has been associated with political conservatism and right-wing ideology. The fact that, globally, @colognaTrustScientistsTheir2025 do not find evidence of a relationship between political orientation and trust in scientists, suggests that deeper psychological factors may play a more important role for science rejection than any political ideology. Specifically, science-related populist attitudes—which pit “ordinary people” and common sense against scientific elites—strongly predict lower trust in scientists. Similarly, individuals high in **social dominance orientation** (SDO), who support group-based hierarchies, are less likely to trust scientists, perhaps because they view universities as hierarchy-weakening institutions.
-
-More generally, research should more carefully distinguish between lack of trust and active distrust.People who score in the middle of trust scales may be uncertain rather than opposed, and treating this ambivalence as hostility could undermine effective communication.
-
-## The role of misinformation
-
-Since the Covid-19 pandemic, the role of misinformation in fostering distrust in science has been increasingly studied [@nationalacademiesofsciencesUnderstandingAddressingMisinformation2024; @scheufeleScienceAudiencesMisinformation2019; @druckmanThreatsSciencePoliticization2022]. Many anti science conspiracy theories. Yet, it still needs to be much understood how this actually affects beliefs about and attitudes towards science [@nationalacademiesofsciencesUnderstandingAddressingMisinformation2024].
+Classic normative accounts of what makes science trustworthy have depicted the ideal scientists as neutral: an actor only committed to knowledge, impersonal (Merton), and making no value judgments (Weber). These ideals are often far from reality [see e.g., @colognaCommunicationValueJudgements2022], but they also do not necessarily correspond to what makes scientists trustworthy, in the eye of the public: Prior research shows that trust increases when people see scientists as sharing their values or social identity [@druckmanRepresentationScienceTrust2025]. The ideal of value-free scientists also suggests that scientists might risk their trustworthiness when publicly engaging in politics or advocacy. Contrasting this view, @colognaTrustScientistsTheir2025 find that most people do in fact want scientists to actively advocate for specific policies and be more involved in policymaking processes. Support is especially strong among younger, urban, and more educated respondents, though conservatives tend to be less favorable. Even if political engagement is not always viewed positively, it is important for guaranteeing transparency, as personal values bias researchers' policy recommendations [@pielkejrHonestBrokerMaking2007].
 
 # Conclusion
 
-Cologna et al.’s (2025) global study underscores that trust in scientists is generally high—but also highly variable across national contexts. While individual-level factors like education, religiosity and political orientation do seem to play a role, their association with people's perceived trustworthiness of scientists is highly context dependent. This reinforces the need for more international research—especially in underrepresented regions—to avoid overgeneralizing from data from the Global North.
+In a recent meta-analysis, @cologna find that trust in science is moderatly high. However, that trust should not be taken for granted. Even distrusting of minorities, especially when in positions of power, can have devastating consequences for the relationship between science and society. In the US, too, most people trust science, at least to some extent. Yet, the incumbent government has this year denounced plans to tackle climate change, cancel vaccination programs, and introduce massive budget cuts for science.
 
-High average trust should not breed complacency. Small but vocal distrusting minorities can influence public discourse and policymaking, especially when amplified by media or embedded in elite rhetoric. Yet, stressing that trust in science tends to be elevated, across partisan divides, might in itself help alleviate partisan animosity. In the US, Democrats vastly underestimate Republicans’ trust in scientists [@druckmanContinuityChangeTrust2024].
+Trust in science matters, but research comes to inconsistent results. We have argued that these inconsistencies are likely to be rooted in choices of research design on different levels (theoretical, methodological, normative). By showcasing some issues and shortcomings, we deem important, we hope to raise awareness among the research community for these inconsistencies. Hopefully, we could also lay out some paths to move forward.
 
-## Notes
+## Some notes
 
 -   @achterbergScienceConfidenceGap2017: They measured trust in scientific institutions as an index of reported (i) confidence in science, (ii) confidence in scientists, (iii) (dis)agreemtn with the statement that "scientific knowledge is nothing but an opinion". They measured trust in sicentific method with (dis)agreement to the questions ("Knowledge can only be obtained through unbiased systematic research")
 
@@ -180,3 +110,5 @@ High average trust should not breed complacency. Small but vocal distrusting min
 -   In 2021, 40% of Americans believed that “the dangers of genetically-modified foods are being hidden from the public” [down from 45% in 2020, @uscinskiHaveBeliefsConspiracy2022]
 
 -   A recent Pew survey found that 89% of Americans viewed research scientists as intelligent, but only 65% viewed them as honest [@kennedyPublicTrustScientists2024].
+
+-   Scheufele: "Following this trust deficit argument, many in the scientific community have blamed COVID19 vaccine hesitancy and other disconnects between science and communities of color in the United States on low levels of trust, driven by historical atrocities, including not treating sick patients during the Tuskegee Syphilis Study or profiting, without consent, from cell lines obtained from African American patients. And while there is some truth in this diagnosis, we also know that expectant African American mothers in the United States today have a three times higher chance of dying during childbirth than White women (Krause et al., 2021), with similar discrepancies in health outcomes for women of color also emerging in countries like the United Kingdom (Knight et al., 2021). Addressing this discrepancy is not primarily a challenge of dealing with symptoms, that is, of rebuilding trust in the medical community. It is a challenge of eliminating the underlying cause, that is, addressing persistent health disparities based on class, race, and socioeconomic status."
