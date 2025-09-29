@@ -1,0 +1,19 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\centering
+\begin{tblr}[         %% tabularray outer open
+]                     %% tabularray outer close
+{                     %% tabularray inner open
+width={1\linewidth},
+colspec={X[0.18]X[0.28]X[0.27]X[0.27]},
+hline{2}={1-4}{solid, black, 0.05em},
+hline{1}={1-4}{solid, black, 0.1em},
+hline{5}={1-4}{solid, black, 0.1em},
+}                     %% tabularray inner close
+Dimension & Challenges & Examples & Implications \\
+Theoretical & Ambiguity in referents of “science” (methods, institutions, individuals); domain-specific trust; trustworthiness vs. behavioral trust & TISP study: competence rated higher than integrity/openness; qualitative work validates competence, integrity, benevolence, openness & Need precise definitions & domain-specific measures; distinguish perceptions vs. acts of trust \\
+Methodological & Sampling biases (Global North focus, underrepresentation of regions); heterogeneous measures of trust and covariates & Wellcome vs. TISP report opposite associations with inequality; education & religiosity effects differ by study & Expand regional coverage; harmonize measures; improve comparability \\
+Normative & Deficit thinking; assumption that more trust is always better; neglect of legitimate reasons for low trust & Deficit models frame public as “ignorant”; overlooks failures/misconduct & Reflect on what levels of trust are desirable; balance fostering trust with healthy skepticism \\
+\end{tblr}
+\end{table*}
