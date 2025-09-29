@@ -69,7 +69,7 @@ summary_tbl <- tribble(
   ~Dimension,        ~Challenges, ~`Future Directions`,
   "Theoretical",     
     "Ambiguity in referents of “science” (methods, institutions, individuals); domain-specific trust; trustworthiness vs. behavioral trust",
-    "Using more specific concepts and domain-specific measures",
+    "Use more specific concepts and domain-specific measures",
   "Methodological",
     "Country-dependent findings; heterogeneous measures of trust and covariates",
     "Expand regional coverage; converge on validated measures",
@@ -155,23 +155,27 @@ To meaningfully advance research on trust in science, three key aspects deserve 
 
 # References
 
+References of particular interest have been highlighted as:
+* of special interest
+** of outstanding interest
+
 ::: {#refs}
 :::
 
-# Annotations
+## Further information on references of particular interest
 
--   @todorovaMachineLearningIdentifies2025
+-   **@todorovaMachineLearningIdentifies2025 Among 19 candidate variables, trust in climate science was the most important predictor of climate change belief and policy support. 
 
--   @colognaTrustScientistsTheir2025
+-   **@colognaTrustScientistsTheir2025 The TISP Many Labs assessed perceived trustworthiness of climate scientists with a 12-item scale, covering the dimensions of competence, benevolence, integrity and openness. They found moderately high levels of trust in scientists across the globe. 
 
--   @altenmullerExplainingPolarizedTrust2024a
+-   **@altenmullerExplainingPolarizedTrust2024a People across the political spectrum hold stereotypes about scientists’ political orientation (e.g., “scientists are liberal”). These stereotypes matter for trust in science: Both in the US and in Germany, conservatives tend to distrust scientists more when they believe that scientists are liberal.
 
--   @gligoricHowSocialEvaluations2024
+-   *@gligoricHowSocialEvaluations2024 Trust in most scientists is relatively high but varied substantially with the discipline. For example, among the most trusted were meteorologists and physiologists, among the least trusted pharmacologists and political scientists. 
 
--   @pfanderQuasiuniversalAcceptanceBasic2025b
+-   *@pfanderQuasiuniversalAcceptanceBasic2025b In four studies, they asked U.S. Americans—including flat Earthers, climate change deniers and vaccine skeptics—whether they accepted basic scientific facts. Acceptance of the scientific consensus was very high in the sample as a whole (95.1%), but also in every sub-sample (e.g. no trust in science: 87.3%; complete endorsement of flat Earth theory: 87.2%)
 
--   @wingenWhenCorrelationDoes2025
+-   *@wingenWhenCorrelationDoes2025 Four studies amid the COVID-19 pandemic (March 2021 – February  2022). They experimentally manipulated trust in science by presenting participants with real-world statements from the same scientists during the COVID-19 pandemic, some of which later turned out to be primarily correct (high trust  condition), some of which incorrect (low trust condition). They did not find that this manipulation increased protection intentions (e.g. physical distancing, mask wearing).
 
--   @druckmanContinuityChangeTrust2024
+-   **@druckmanContinuityChangeTrust2024 Trust in science in the U.S. is remarkably stable, and so are its demographic correlates: women, Black, rural, religious, non-college educated, and lower/working class individuals exhibit less trust. They argue that the current partisan gap (Democrats trusting more, Republicans less) can be explained by low-trust demographic strata shifting partisan allegiances. This suggests that political ideology might be a less important factor of polarization than demographic inequities. 
 
--   @gauchatLegitimacyScience2023
+-   **@gauchatLegitimacyScience2023 Argues that politicization of science in the US needs to be seen in its broader cultural context. Science has played a crucial role in legitimizing the modern regulatory state. Consequently, conservative distrust of science reflects deeper structural tensions with the rational–legal authority of modern governance.
